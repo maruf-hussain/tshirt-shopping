@@ -1,0 +1,31 @@
+.product{
+ border-radius: 20px;
+ border: 2px solid red;
+ background-color: rgb(122, 122, 122);
+ color: #e5ff00;
+ text-align: center;
+
+
+
+}
+.product img{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    padding: 10px;
+  
+   
+}
+.product button{
+    padding: 10px 20px;
+    color: #000000;
+    background-color: #e5ff00;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+
+   
+}
+.product button:hover{
+    background-color: #00ec33;
+}
